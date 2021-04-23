@@ -114,3 +114,8 @@ def make_power(y):
     return fn
 pow2 = make_power(2)
 print(pow2(3))
+
+
+
+def fn():
+    print(1)
